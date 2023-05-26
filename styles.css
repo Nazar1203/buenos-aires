@@ -1,0 +1,181 @@
+.navigation-container{
+    display:flex;
+    box-sizing:border-box;
+    color:#37474F;
+    font-weight:700;
+    font-size:25px;
+    line-height:36px;
+}
+.navigation-left{
+    text-align:left;
+    display:flex;
+    padding-left:138px;
+    position: absolute;
+    padding-top:32px;
+    gap:155px;
+}
+.navigation-right{
+    text-align:right;
+    display:flex;
+    margin-left:1146px;
+    position: absolute;
+    border-top: 32px;
+}
+.check-mark{
+    margin: 40px;
+    border-top: 44px;
+}
+
+.dandruff{
+    margin-right:75px;
+    border-top: 25px;
+}
+.foto-flag-building{
+    position:absolute;
+    width:1442px;
+    height:495px;
+    left:-2px;
+    top:92px;
+}
+.buenos-aires{
+    margin-top:657px;
+    margin-left:226px;
+    font-weight:700;
+    font-size:64px;
+    line-height:92px;
+}
+.foto-container{
+    position: absolute;
+    margin-left:112px;
+    display:flex;
+    width: 80%;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.foto-container-bottom{
+    margin-left:112px;
+    margin-top:410px;
+    position: absolute;
+    display:flex;
+    width:80%;
+    justify-content: space-around;
+    align-items: center;
+}
+.barbecue-block{
+display:flex;
+    margin-top:1100px;
+}
+.pub-block{
+ display:flex;
+}
+.reason-container{
+    background:#BBDEFB;
+    width:1440px;
+    height:1766px;
+}
+.reasons-to-come{
+    font-size:64px;
+    font-weight:700;
+    line-height:92px;
+    margin-left:187px;
+    margin-top:940px;
+    padding-top:66px;
+}
+.barbecue-block{
+    /*box-sizing:border-box;*/
+    display:flex;
+    font-style:normal;
+    width:100%;
+    margin-top:100px;
+    margin-bottom:150px;
+    margin-left:139px;
+}
+.barbecue-block h3{
+    font-weight:400;
+    font-size:40px;
+    line-height:52px;
+    margin-left:100px;
+}
+.barbecue-block p{
+    font-weight:700;
+    font-size:40px;
+    line-height:52px;
+    max-width:500px;
+    margin-top:200px;
+    margin-left:-200px;
+}
+.barbecue-img{
+    width:484px;
+    height:424px;
+}
+.pub-block{
+    display:flex;
+    font-style:normal;
+    width:96%;
+    margin-top:100px;
+    flex-direction: row-reverse;
+
+}
+.pub-block h3{
+    font-weight:700;
+    font-size:40px;
+    line-height:52px;
+    margin-top:100px;
+    height:50px;
+    width:500px;
+    padding-right:650px;
+}
+.pub-block p{
+    /*font-weight:700;*/
+    /*font-size:40px;*/
+    /*line-height:52px;*/
+    /*margin-left:170px;*/
+    /*margin-top:300px;*/
+
+}
+.pub-img{
+    width:484px;
+    height:424px;
+}
+.cometo-buenos-aires{
+    margin-left:181px;
+    font-size:64px;
+    font-weight:400;
+    line-height:82px;
+    max-width:1000px;
+}
+.follow-us-in-social{
+    margin-top:155px;
+    display: flex;
+    font-size:65px;
+    line-height:85px;
+    font-weight:400;
+    margin-left:164px;
+}
+.social-network-links {
+    display:flex;
+    margin-left:112px;
+    width:100%;
+    position:absolute;
+    margin-top:100px;
+    gap:155px;
+}
+footer{
+    background:#BBDEFB;
+    height:386px;
+}
+.lower-container{
+    margin-top:612px;
+    width:50%;
+    gap:10%;
+    display: flex;
+    flex-direction: column;
+}
+.post-scriptum{
+    display: flex;
+    flex-direction:row-reverse;
+    width:100%;
+    margin-top:-300px;
+    margin-left:-403px;
+}
